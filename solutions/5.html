@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>solution</title>
+  </head>
+  <body>
+    <div id="top"></div>
+    <div></div>
+    <div id="bottom"></div>
+    <style>
+      body {
+        display: flex;
+        height: 90dvh;
+        justify-content: center;
+        align-items: center;
+        background: #0b2429;
+      }
+      div {
+        width: 120px;
+        height: 120px;
+        background: #998235;
+        border-radius: 50% 0 50% 50%;
+        position: absolute;
+      }
+      #top {
+        background: #f3ac3c;
+        transform: translate(60px, -60px) rotate(180deg);
+      }
+      #bottom {
+        background: #f3ac3c;
+        transform: translate(-60px, 60px);
+      }
+    </style>
+  </body>
+</html>

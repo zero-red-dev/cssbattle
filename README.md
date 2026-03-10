@@ -10,6 +10,7 @@ This repository contains my solutions to various cssbattle problems.
 | [#2](https://cssbattle.dev/play/2) | [✓](./solutions/2.html) |
 | [#3](https://cssbattle.dev/play/3) | [✓](./solutions/3.html) |
 | [#4](https://cssbattle.dev/play/4) | [✓](./solutions/4.html) |
+| [#5](https://cssbattle.dev/play/5) | [✓](./solutions/5.html) |
 
 ## Note
 
