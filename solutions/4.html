@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>solution</title>
+  </head>
+  <body>
+    <div></div>
+    <div class="mirror"></div>
+    <div></div>
+    <style>
+      body {
+        background: #62306d;
+        height: 90dvh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      div {
+        width: 100px;
+        height: 100px;
+        background: #f7ec7d;
+        border-radius: 0 0 50% 50%;
+        margin-block-start: 100px;
+      }
+      .mirror {
+        transform: rotate(180deg);
+        margin-block-start: -100px;
+      }
+    </style>
+  </body>
+</html>
