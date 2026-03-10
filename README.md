@@ -12,6 +12,7 @@ This repository contains my solutions to various cssbattle problems.
 | [#4](https://cssbattle.dev/play/4) | [✓](./solutions/4.html) |
 | [#5](https://cssbattle.dev/play/5) | [✓](./solutions/5.html) |
 | [#6](https://cssbattle.dev/play/6) | [✓](./solutions/6.html) |
+| [#7](https://cssbattle.dev/play/7) | [✓](./solutions/7.html) |
 
 ## Note
 
