@@ -8,6 +8,7 @@ This repository contains my solutions to various cssbattle problems.
 | :--------------------------------: | :---------------------: |
 | [#1](https://cssbattle.dev/play/1) | [✓](./solutions/2.html) |
 | [#2](https://cssbattle.dev/play/2) | [✓](./solutions/2.html) |
+| [#3](https://cssbattle.dev/play/3) | [✓](./solutions/3.html) |
 
 ## Note
 
