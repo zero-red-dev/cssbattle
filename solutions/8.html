@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>solution</title>
+  </head>
+  <body>
+    <div></div>
+    <div class="head"></div>
+    <div class="pin"></div>
+    <style>
+      body {
+        background: #6592cf;
+        display: flex;
+        justify-content: center;
+        align-items: end;
+        margin: 0;
+      }
+      div {
+        width: 20px;
+        height: 51px;
+        background: #060f55;
+        position: absolute;
+        inset-block-end: 0px;
+      }
+      .head {
+        position: absolute;
+        inset-block-end: 50px;
+        height: 100px;
+        width: 140px;
+        border-radius: 0 0 100% 100%;
+      }
+      .pin {
+        position: absolute;
+        inset-block-end: 140px;
+        height: 110px;
+        width: 20px;
+        transform: translateX(-20px);
+        border-radius: 10px;
+        box-shadow:
+          -20px 0px 0 #6592cf,
+          -40px 0px 0 #060f55,
+          20px 0px 0 #6592cf,
+          40px 0px 0 #060f55,
+          60px 0px 0 #6592cf,
+          80px 0px 0 #060f55;
+      }
+    </style>
+  </body>
+</html>
