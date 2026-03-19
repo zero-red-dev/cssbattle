@@ -16,6 +16,7 @@ This repository contains my solutions to various cssbattle problems.
 |   [#8. Forking Crazy](https://cssbattle.dev/play/8)   | [✓](./solutions/8.html)  |
 |     [#9. Tesseract](https://cssbattle.dev/play/9)     | [✓](./solutions/9.html)  |
 | [#10. Cloaked Spirits](https://cssbattle.dev/play/10) | [✓](./solutions/10.html) |
+|  [#11. Eye of Sauron](https://cssbattle.dev/play/11)  | [✓](./solutions/11.html) |
 
 ## Note
 
