@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>solution</title>
+  </head>
+  <body>
+    <div class="start"></div>
+    <div class="middle"></div>
+    <div class="end"></div>
+    <style>
+      body {
+        background: #f5d6b4;
+        height: 90dvh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      .middle {
+        width: 60px;
+        height: 30px;
+        border: 20px solid #d86f45;
+        border-block-end-width: 0;
+        border-radius: 100px 100px 0 0;
+        transform: translateY(-24px);
+      }
+      .start,
+      .end {
+        width: 60px;
+        height: 30px;
+        border: 20px solid #d86f45;
+        border-block-start-width: 0;
+        border-radius: 0 0 100px 100px;
+      }
+      .start {
+        transform: translate(20px, 24px);
+      }
+      .end {
+        transform: translate(-20px, 24px);
+      }
+      .start::after,
+      .end::after {
+        background: #d86f45;
+        content: "";
+        display: block;
+        width: 20px;
+        height: 20px;
+        border-radius: 50%;
+        position: absolute;
+      }
+      .start::after {
+        inset-inline-start: -20px;
+        inset-block-start: -10px;
+      }
+      .end::after {
+        inset-inline-end: -20px;
+        inset-block-start: -10px;
+      }
+    </style>
+  </body>
+</html>

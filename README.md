@@ -4,19 +4,20 @@ This repository contains my solutions to various cssbattle problems.
 
 ## Solutions
 
-|                        Problem                        |         Solution         |
-| :---------------------------------------------------: | :----------------------: |
-|   [#1. Simply Square](https://cssbattle.dev/play/1)   | [✓](./solutions/2.html)  |
-|      [#2. Carrom](https://cssbattle.dev/play/2)       | [✓](./solutions/2.html)  |
-|    [#3. Push Button](https://cssbattle.dev/play/3)    | [✓](./solutions/3.html)  |
-|    [#4. Ups n Downs](https://cssbattle.dev/play/4)    | [✓](./solutions/4.html)  |
-|     [#5. Acid Rain](https://cssbattle.dev/play/5)     | [✓](./solutions/5.html)  |
-|   [#6. Missing Slice](https://cssbattle.dev/play/6)   | [✓](./solutions/6.html)  |
-|    [#7. Leafy Trail](https://cssbattle.dev/play/7)    | [✓](./solutions/7.html)  |
-|   [#8. Forking Crazy](https://cssbattle.dev/play/8)   | [✓](./solutions/8.html)  |
-|     [#9. Tesseract](https://cssbattle.dev/play/9)     | [✓](./solutions/9.html)  |
-| [#10. Cloaked Spirits](https://cssbattle.dev/play/10) | [✓](./solutions/10.html) |
-|  [#11. Eye of Sauron](https://cssbattle.dev/play/11)  | [✓](./solutions/11.html) |
+|                        Problem                         |         Solution         |
+| :----------------------------------------------------: | :----------------------: |
+|   [#1. Simply Square](https://cssbattle.dev/play/1)    | [✓](./solutions/2.html)  |
+|       [#2. Carrom](https://cssbattle.dev/play/2)       | [✓](./solutions/2.html)  |
+|    [#3. Push Button](https://cssbattle.dev/play/3)     | [✓](./solutions/3.html)  |
+|    [#4. Ups n Downs](https://cssbattle.dev/play/4)     | [✓](./solutions/4.html)  |
+|     [#5. Acid Rain](https://cssbattle.dev/play/5)      | [✓](./solutions/5.html)  |
+|   [#6. Missing Slice](https://cssbattle.dev/play/6)    | [✓](./solutions/6.html)  |
+|    [#7. Leafy Trail](https://cssbattle.dev/play/7)     | [✓](./solutions/7.html)  |
+|   [#8. Forking Crazy](https://cssbattle.dev/play/8)    | [✓](./solutions/8.html)  |
+|     [#9. Tesseract](https://cssbattle.dev/play/9)      | [✓](./solutions/9.html)  |
+| [#10. Cloaked Spirits](https://cssbattle.dev/play/10)  | [✓](./solutions/10.html) |
+|  [#11. Eye of Sauron](https://cssbattle.dev/play/11)   | [✓](./solutions/11.html) |
+| [#12. Wiggly Moustache](https://cssbattle.dev/play/12) | [✓](./solutions/12.html) |
 
 ## Note
 
