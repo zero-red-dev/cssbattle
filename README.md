@@ -18,6 +18,7 @@ This repository contains my solutions to various cssbattle problems.
 | [#10. Cloaked Spirits](https://cssbattle.dev/play/10)  | [✓](./solutions/10.html) |
 |  [#11. Eye of Sauron](https://cssbattle.dev/play/11)   | [✓](./solutions/11.html) |
 | [#12. Wiggly Moustache](https://cssbattle.dev/play/12) | [✓](./solutions/12.html) |
+| [#13. Totally Triangle](https://cssbattle.dev/play/13) | [✓](./solutions/13.html) |
 
 ## Note
 
