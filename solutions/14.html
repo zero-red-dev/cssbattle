@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>solution</title>
+  </head>
+  <body>
+    <div class="down"></div>
+    <div class="down-down"></div>
+    <div class="up"></div>
+    <div class="up-up"></div>
+    <style>
+      body {
+        background: #f2f2b6;
+        height: 90dvh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      div {
+        width: 0px;
+        height: 0px;
+      }
+      .up {
+        border-block-end: 130px solid #ff6d00;
+        border-inline: 75px solid transparent;
+        transform: translateX(-10px);
+        z-index: -1;
+      }
+      .up-up {
+        position: absolute;
+        border-block-end: 130px solid #fd4602;
+        border-inline: 75px solid transparent;
+        z-index: 1;
+        transform: translateX(45px);
+      }
+      .down {
+        border-block-start: 130px solid #ff6d00;
+        border-inline: 75px solid transparent;
+        transform: translateX(10px);
+        z-index: 1;
+      }
+
+      .down-down {
+        position: absolute;
+        border-block-start: 130px solid #fd4602;
+        border-inline: 75px solid transparent;
+        z-index: -1;
+        transform: translateX(-45px);
+      }
+    </style>
+  </body>
+</html>
