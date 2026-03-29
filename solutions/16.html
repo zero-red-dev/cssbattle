@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>solution</title>
+  </head>
+  <body>
+    <div class="sclera"></div>
+    <div class="iris"></div>
+    <style>
+      body {
+        background: #0b2429;
+        height: 90dvh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      .sclera {
+        position: absolute;
+        background: #998235;
+        width: 200px;
+        height: 200px;
+        transform: rotate(45deg);
+        border-radius: 50% 0;
+        z-index: -1;
+      }
+      .iris {
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        background: #0b2429;
+        border: 45px solid #f3ac3c;
+        box-shadow: 0 0 0 20px #0b2429;
+        z-index: 1;
+      }
+    </style>
+  </body>
+</html>

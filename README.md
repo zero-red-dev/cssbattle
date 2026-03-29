@@ -21,6 +21,7 @@ This repository contains my solutions to various cssbattle problems.
 | [#13. Totally Triangle](https://cssbattle.dev/play/13) | [✓](./solutions/13.html) |
 |  [#14. Web Maker Logo](https://cssbattle.dev/play/14)  | [✓](./solutions/14.html) |
 |     [#15. Overlap](https://cssbattle.dev/play/15)      | [✓](./solutions/15.html) |
+| [#16. Eye of the Tiger](https://cssbattle.dev/play/16) | [✓](./solutions/16.html) |
 
 ## Note
 
